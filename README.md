@@ -2,7 +2,7 @@
 1. Create a .env file and type the following (for local llm)
 ```
 OPENAI_API_BASE=http://localhost:11434/v1
-OPENAI_MODEL_NAME=crewai-llama3
+OPENAI_MODEL_NAME=llama3
 OPENAI_API_KEY=NA
 ```
 2. Open up terminal and type in the following to install
