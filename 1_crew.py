@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 llm = ChatOpenAI(
-    model="crewai-llama3",
+    model="llama3",
     base_url="http://localhost:11434/v1"
 )
 
